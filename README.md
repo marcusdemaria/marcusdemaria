@@ -15,8 +15,9 @@
 💞️ Feel free to check out my portfolio and ask any questions!
 
 📫 Some other ways to stay connected with me:
-  - https://www.linkedin.com/in/marcus-de-maria-54a137251/
-  - marcusdemaria2014@gmail.com
+- ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white) https://github.com/marcusdemaria/marcusdemaria
+- ![linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=blue) https://www.linkedin.com/in/marcus-de-maria-54a137251/
+  
 
 
 <!---
