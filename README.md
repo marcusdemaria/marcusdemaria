@@ -7,6 +7,7 @@
 🌱 Some of my favourite things to do include:
   - CADing in SOLIDWORKS or Inventor
   - Using SQL and Python to test and analyze datasets for various mechanisms
+  - Programming and creating applications with C++ and React
   - Going to the gym!
   - Travelling
   - Exploring thrift stores and coffee shops around me :)
