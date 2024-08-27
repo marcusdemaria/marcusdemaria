@@ -8,7 +8,7 @@
   - CADing in SOLIDWORKS or Inventor
   - Using SQL and Python to test and analyze datasets for various mechanisms
   - Programming and creating applications with C++, HTML, and React.js
-  - Going to the gym! As a side career I manage an ifluencer account for working out and engineering!
+  - Going to the gym and vlogging! As a side career I manage an influencer account for working out and engineering day in the life!
   - Travelling
   - Exploring thrift stores and coffee shops around me :)
 
