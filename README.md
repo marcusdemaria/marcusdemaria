@@ -7,7 +7,7 @@
 🌱 Some of my favourite things to do include:
   - CADing in SOLIDWORKS or Inventor
   - Using SQL and Python to test and analyze datasets for various mechanisms
-  - Programming and creating applications with C++, HTML, and React.js
+  - Programming and creating software engineered applications with C++, HTML, TailwindCSS, and React.js
   - Going to the gym and vlogging! As a side career I manage an influencer account for working out and engineering day in the life!
   - Travelling
   - Exploring thrift stores and coffee shops around me :)
