@@ -1,8 +1,10 @@
-👋 Hi, I’m Marcus De Maria
+# 👋 Hi, I’m Marcus De Maria
 
 ⚡ Currently a Third Year Mechatronics Engineering Student at McMaster University
 
 👀 I’m interested in software optimization and automation of embedded engineered tools, analyatics with data processing/testing, and mechanical design
+
+# Skills
 
 🌱 Some of my favourite things to do include:
   - CADing in SOLIDWORKS or Inventor
@@ -13,6 +15,8 @@
   - Exploring thrift stores and coffee shops around me :)
 
 💞️ Feel free to check out my portfolio and ask any questions!
+
+# Stay Connected
 
 📫 Some other ways to stay connected with me:
 
