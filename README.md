@@ -2,7 +2,9 @@
 
 ⚡ Currently a Third Year Mechatronics Engineering Student at McMaster University
 
-👀 I’m interested in software optimization and automation of embedded engineered tools, analyatics with data processing/testing, and mechanical design
+- I’m interested in software optimization and automation of embedded engineered tools, analyatics with data processing/testing, and mechanical design
+
+- Previously an Engineering Intern at Welbilt Inc. and ALMAG Aluminum dealing with electromechanical design, automomation, and data acquistion/testing
 
 # Skills
 
