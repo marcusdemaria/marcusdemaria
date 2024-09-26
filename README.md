@@ -4,7 +4,7 @@
 
 - I’m interested in software optimization and automation of embedded engineered tools, analyatics with data processing/testing, and mechanical design
 
-- Previously an Engineering Intern at Welbilt Inc. and ALMAG Aluminum where I dealt with and worked on projects related to electromechanical design, automomation, and data acquistion/testing
+- Previously an Engineering Intern at Welbilt Inc. and ALMAG Aluminum where I dealt with and worked on projects related to electromechanical design, manufacturing, CADing, automomation, and data acquistion/testing
 
 # Skills
 
