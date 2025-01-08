@@ -6,6 +6,8 @@
 
 - Previously an Engineering Intern at Welbilt Inc. and ALMAG Aluminum where I dealt with and worked on projects related to electromechanical design, manufacturing, CADing, automomation, and data acquistion/testing
 
+- Incoming Engineering Intern at Celestica in the A&D VAVE department working on Testing and Design! May 2025 - August 2026 !!!
+
 # Skills
 
 🌱 Some of my favourite things to do include:
