@@ -1,17 +1,17 @@
 # 👋 Hi, I’m Marcus De Maria
 
-⚡ Currently a Third Year Mechatronics Engineering Student at McMaster University
+⚡ Currently on Co-op After Finishing my Third Year of Mechatronics Engineering at McMaster University
 
 - I’m interested in software optimization and automation of embedded engineered tools, analyatics with data processing/testing, and mechanical design to showcase optimized, efficient, and technologically advanced results
 
 - Previously an Engineering Intern at Welbilt Inc. and ALMAG Aluminum where I dealt with and worked on projects related to electromechanical design, manufacturing, CADing, automomation, and data acquistion/testing
 
-- Incoming Engineering Intern at Celestica in the A&D VAVE department working on Testing and Design! May 2025 - August 2026 !!!
+- Engineering Intern at Celestica in the A&D VAVE department working on Testing and Design!
 
 # Skills
 
 🌱 Some of my favourite things to do include:
-  - CADing in SOLIDWORKS or Inventor
+  - CADing in SOLIDWORKS or other random tools
   - Using SQL and Python to test and analyze datasets for various mechanisms
   - Programming and creating software engineered applications with C++, HTML, CSS, and Java
   - Going to the gym and vlogging!
